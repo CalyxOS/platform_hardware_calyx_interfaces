@@ -16,6 +16,24 @@
       "message": "downstream / calyx only change?",
       "revId": "e1eff09fe33d1d1573467489141ef8651e5dd18c",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8902475f_4cb86602",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000004
+      },
+      "writtenOn": "2022-02-23T22:03:45Z",
+      "side": 1,
+      "message": "Yes",
+      "parentUuid": "ed7bc6cc_f0360752",
+      "revId": "e1eff09fe33d1d1573467489141ef8651e5dd18c",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
