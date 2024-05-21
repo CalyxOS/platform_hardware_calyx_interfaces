@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0c690a84_3d77a6a5",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000004
+      },
+      "writtenOn": "2024-05-21T14:53:20Z",
+      "side": 1,
+      "message": "https://review.calyxos.org/c/CalyxOS/platform_hardware_calyx_interfaces/+/26409",
+      "revId": "be1e43cacc4e9ac6ed4c8e7162f360db0949f70d",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
