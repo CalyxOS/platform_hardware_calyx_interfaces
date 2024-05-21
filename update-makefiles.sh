@@ -8,6 +8,6 @@ do_makefiles_update \
   "android.hidl:system/libhidl/transport"
 
 do_makefiles_update \
-  "lineage.hardware:hardware/lineage/interfaces/_backend" \
+  "lineage.hardware:hardware/calyx/interfaces/_backend" \
   "android.hardware:hardware/interfaces" \
   "android.hidl:system/libhidl/transport"
