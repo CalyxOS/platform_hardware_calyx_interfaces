@@ -1,0 +1,8 @@
+package {
+    default_applicable_licenses: ["Android-Apache-2.0"],
+}
+
+hidl_package_root {
+    name: "lineage.frameworks",
+    path: "hardware/lineage/interfaces/_frameworks",
+}
